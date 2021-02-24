@@ -1,6 +1,3 @@
-<img width="auto" src="https://github.com/tgmarinho/lnandogb/blob/master/banner.png">
-
-
 # Luis Fernando G. Barbosa
 
 ## Olá pessoal 👋

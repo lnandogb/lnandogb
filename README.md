@@ -10,6 +10,6 @@ Estudando HTML, CSS e JavaScript :computer:
  :rocket:  &nbsp; Estou trabalhando na **Editora Globo** como Analista Contábil
  <br/> :purple_heart: &nbsp; Buscando aprender mais sobre programação
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, boardgames, HQs, filmes e seriados.
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Luis Barbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lnandogb//)](https://www.linkedin.com/in/lnandogb/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-lnandogb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lnandogb@gmail.com)](mailto:lnandogb@gmail.com)
